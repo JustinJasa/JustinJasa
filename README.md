@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JustinJasa
 - 👀 I’m interested in UX/UI Design and Front-End Development
-- 🌱 I’m currently learning UX/UI design on Coursera and creating Front-End Applications on using Javascript, HTML and CSS
+- 🌱 I’m creating Front-End Applications on using Javascript, HTML and CSS
 - 📫 You can reach me on jjasa.2000@gmail.com.au
